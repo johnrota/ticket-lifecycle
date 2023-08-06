@@ -62,26 +62,10 @@ Step 4: Select any help topic and enter an issue summary based on the scenario y
 </p>
 <br />
 
-<p>
-<p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_6187920340c94e8ab47f121788a9a1d5~mv2.png" height="60%" width="60%" alt="osTicket: Ticket Lifecycle Examples"/>
-</p>
-<p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_52f7398a711748f9b330acb9c0e1eb8e~mv2.png" height="60%" width="60%" alt="osTicket: Ticket Lifecycle Examples"/>
-</p>
-<p>
 Step 5: Create two more tickets: one from User 2 and another from User 1 again.
-</p>
-<br />
 
-<p>
-<p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_ad97a9a88fac4aa98c254263729b4d83~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
-</p>
-<p>
 Step 6: Log out by going to localhost/osTicket/scp/index.php.
-</p>
-<br />
+
 
 <p>
 <p align="center"> 
